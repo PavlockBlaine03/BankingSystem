@@ -30,7 +30,5 @@ int main()
 		save1.hasFees();
 	}
 
-	cout << "testing github.";
-
 	return 0;
 }
